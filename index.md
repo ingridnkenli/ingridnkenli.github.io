@@ -1,8 +1,8 @@
-## Portfolio
+## My Portfolio
 
 ---
 
-### Category Name 1 
+### Data Science
 
 [Medical Data Visualizer ](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
