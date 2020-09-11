@@ -4,24 +4,24 @@
 
 ### Category Name 1 
 
-[Strike That List To-Do App ](/sample_page)
+[Medical Data Visualizer ](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Envirofest Website](/pdf/sample_presentation.pdf)
+[Sea Level Predictor](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Uber Landing Page](http://example.com/)
+[Linear Regression Health Costs Calculator](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Android Mobile Development
 
-- [BACF Landing Page](http://example.com/)
-- [Electronics Delivery : Microsoft PowerApps](http://example.com/)
-- [Tauran Management Group website](http://example.com/)
+- [Weather App 2.0](http://example.com/)
+- [GritsToGo Carryout Food App](http://example.com/)
+- [Smile Detector Face Recognition App (ML)](http://example.com/)
 
 ---
 
